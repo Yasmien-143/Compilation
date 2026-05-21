@@ -53,7 +53,7 @@ This subject consists of the following activities:
 
 This activity involves developing the Boy’s Love Series System, a platform that displays and organizes a collection of Thailand BL (Boys’ Love) series. The system allows users to browse series information, view details such as titles, genres, release dates, and descriptions, and easily explore available content in an organized interface. The project focuses on improving data management, user navigation, and interface design while applying basic system development and database concepts.
 
-Access:http://127.0.0.1:8000/items
+Access:https://127.0.0.1:8000/items
 
 
 **- Activity 3** 
@@ -62,7 +62,7 @@ Access:http://127.0.0.1:8000/items
 
 This activity involves developing a Habit Tracker System that helps users monitor and manage their daily habits and routines. The system allows users to add habits, track their progress, mark completed tasks, and maintain consistency in achieving personal goals. The project focuses on improving productivity and self-discipline through an organized and user-friendly tracking system while applying basic system development and database management concepts.
 
-Access:http://127.0.0.1:8000/habits
+Access:https://127.0.0.1:8000/habits
 
 
 **- Activity 4**
@@ -71,7 +71,7 @@ Access:http://127.0.0.1:8000/habits
 
 This activity involves creating a Gym Membership Registration Form System that allows users to register for gym membership through an online form. The system collects important member information such as personal details, membership plans, workout schedules, and fitness goals to help the gym manage registrations efficiently. The project focuses on improving the registration process by making it more organized, user-friendly, and accessible for both gym members and staff.
 
-Access:http://127.0.0.1:8000/form
+Access:https://127.0.0.1:8000/form
 
 
 **- Activity 5**
@@ -80,8 +80,7 @@ Access:http://127.0.0.1:8000/form
 
 This activity involves developing a Gym Dashboard System that helps manage and monitor gym operations through an organized digital interface. The dashboard provides features such as member management, attendance tracking, workout scheduling, payment monitoring, and progress reports for gym staff and administrators. The project focuses on creating a user-friendly and efficient system that improves gym management, data organization, and overall operational workflow.
 
-Access:http://127.0.0.1:8000/dashboard
+Access:localhost:8000/dashboard
 
 
 
-# Compilation
